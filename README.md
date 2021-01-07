@@ -8,3 +8,4 @@ It also asks for 2 parameters, the maximum slide numbers (to prevent overcrowdin
 To run the programm there has to be a folder called "Slides" in the same directory as the programm. 
 The output will be a presentation called "AllSlides.pptx" with, well, all slides.
 
+I uploaded the .py and .ipynb they should be identical so feel free to use either.
